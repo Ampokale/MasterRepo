@@ -1,0 +1,12 @@
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.runtimeconfig.json
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.runtimeconfig.dev.json
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\DIPANSH\Desktop\NetFSD\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\DIPANSH\Desktop\NetFSD\WebApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
